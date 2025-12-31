@@ -1,0 +1,16 @@
+{
+  "instructions": [
+    "turn left at the intersection",
+    "merge left",
+    "merge right"
+  ],
+  "onset_manuals": [
+    68,
+    68,
+    88
+  ],
+  "onset_manual": 68,
+  "instructions_legacy": "turn left at the intersection",
+  "reactive_traffic": true,
+  "extra_steps": 10
+}

@@ -1,0 +1,23 @@
+name: metadrive-driving-rig
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - pillow
+  - pygame
+  - panda3d
+  - gymnasium
+  - zmq
+  - opencv
+  - pip:
+    - sdl2
+    - evdev
+    - metadrive
+    - scenario-net
+    - pynput
+    - psutil

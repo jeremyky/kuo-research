@@ -1,0 +1,14 @@
+{
+  "instructions": [
+    "merge right",
+    "merge right"
+  ],
+  "onset_manuals": [
+    1,
+    45
+  ],
+  "onset_manual": 1,
+  "instructions_legacy": "merge right",
+  "reactive_traffic": true,
+  "extra_steps": 10
+}

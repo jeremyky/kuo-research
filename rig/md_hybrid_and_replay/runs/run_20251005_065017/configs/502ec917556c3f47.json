@@ -1,0 +1,12 @@
+{
+  "instructions": [
+    "follow the lane"
+  ],
+  "onset_manuals": [
+    200
+  ],
+  "onset_manual": 200,
+  "instructions_legacy": "follow the lane",
+  "reactive_traffic": true,
+  "extra_steps": 1000
+}

@@ -1,0 +1,4 @@
+- This file contains the code for data collection and replay using Waymo scenarios.
+- Instruction generation on a filtered dataset is in progress.
+- Use data_collection.py for collecting data. Specify a path to configs using --config. Specify a path to scenarios using --data_path. Example configs are included in the configs folder. Use --replay to replay, with the same other two arguments as above. Manual inputs (as well as trajectory info) are stored in the manual inputs folder after being generated through data collection.
+- Scenario configs as well as data collection outputs are named according to scenario ID.
