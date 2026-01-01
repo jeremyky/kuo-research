@@ -1,0 +1,26 @@
+{
+  "scenario_id": "sd_waymo_v1.2_695983298c625c1b",
+  "scenario_path": "../data/waymo/converted/waymo_converted_test_0/sd_waymo_v1.2_695983298c625c1b.pkl",
+  "images": {
+    "initial_3d": "sd_waymo_v1.2_695983298c625c1b_initial_3d.png",
+    "initial_topdown": "sd_waymo_v1.2_695983298c625c1b_initial_topdown.png",
+    "trajectory_3d": null,
+    "trajectory_topdown": null
+  },
+  "bucket_id": 0,
+  "scenario_index_in_bucket": 0,
+  "clustering": {
+    "type": "kmeans",
+    "n_clusters": "unknown",
+    "silhouette_score": 0.25912905923363955
+  },
+  "signature_method": "default",
+  "bucket_stats": {
+    "size": 48,
+    "avg_length_m": 293.7689145406087,
+    "avg_curvature": 0.10253686302651961,
+    "avg_num_vehicles": 65.125,
+    "avg_density": 24.222542713010395
+  },
+  "scenario_features": {}
+}
